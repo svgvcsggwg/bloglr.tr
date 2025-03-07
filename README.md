@@ -1,1 +1,0 @@
-# bloglr.tr
